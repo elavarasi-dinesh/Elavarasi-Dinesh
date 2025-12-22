@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 _Data Analyst transitioning into analytics with a strong foundation in SQL, Power BI, Python, and Excel.Enjoy analysing datasets, identifying trends, and presenting insights clearly for decision-makers._
 
 ### Connect with me:
-elavarasi.k@gmail.com
-
-www.linkedin.com/in/elavarasi-dinesh
+<img align="left" width="20px" src="https://img.icons8.com/?size=50&id=124383&format=png"/>elavarasi.k@gmail.com
+<br>
+<img align="left" width="20px" src="https://img.icons8.com/?size=48&id=13930&format=png"/>www.linkedin.com/in/elavarasi-dinesh
 ### Languages, Libraries:
 
 <img align="left"  src="https://img.icons8.com/color/30/000000/python.png"/>
