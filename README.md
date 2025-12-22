@@ -67,7 +67,7 @@ _Data Analyst transitioning into analytics with a strong foundation in SQL, Powe
 <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
 <img align="left" src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png"/>
 <img align="left" src="https://img.icons8.com/color/30/000000/tableau-software.png"/>
-<img align="left" src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/> <sub>[Icons by Icons8] - https://icons8.com/  </sub>
+<img align="left" src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/> <sub>[Icons by Icons8] </sub>
 
 
 
